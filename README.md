@@ -13,7 +13,7 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 - Historically, summer is usually high temperatures. In this case, June and Dec have similar temperatures.
 
-- December which is in the season of winter actually had an mean of 74.94418 as seen above which is great weather not too hot nor not too cold.
+- December which is in the season of winter actually had an mean of 71 as seen above which is great weather not too hot nor not too cold.
 
 - June was not hot, it had a minimum of 56 and a maximum of 8, not too far off the maximum of December which was 85.
 
